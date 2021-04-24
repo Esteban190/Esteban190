@@ -12,7 +12,7 @@
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Lista xtv36", Capital TV http://45.71.202.210:50000/play/a023/index.m3u8
 
-  #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Lista xtv36", Cinecanal
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Lista xtv36", Cinecanal
 http://45.71.202.210:50000/play/a01k/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Lista xtv36", Cinemax
